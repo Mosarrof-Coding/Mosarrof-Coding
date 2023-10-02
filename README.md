@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mosarrof-Coding](https://github.com/Mosarrof-Coding)
 
-- 💬 Ask me about **html, css, sass, tailwind, bootstrap, jQuery,react, firebase javascripts**
+- 💬 Ask me about **HTML, CSS, sass, tailwind, bootstrap, jQuery, react, firebase, and javascript**
 
 - 📫 How to reach me **tinaberry112188@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/md.mosharaf hosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="md.mosharaf hosain" height="30" width="40" /></a>
+<a href="https://codepen.io/Mosarrof-Coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="md.mosharaf hosain" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/mosarrof.hosain.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/mosarrof.hosain.9" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gpm center" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gpm center" height="30" width="40" /></a>
 </p>
