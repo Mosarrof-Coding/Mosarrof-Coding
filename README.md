@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mosarrof-Coding](https://github.com/Mosarrof-Coding)
 
-- 💬 Ask me about **HTML, CSS, sass, tailwind, bootstrap, jQuery, react, firebase, and javascript**
+- 💬 Ask me about **HTML, CSS, sass, tailwind, bootstrap, jQuery, react, firebase, Supabase, Strapi and javascript**
 
 - 📫 How to reach me **tinaberry112188@gmail.com**
 
